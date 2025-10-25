@@ -23,7 +23,7 @@
 
 ## Documentação dos Endpoints Testados
 
-### 🛍️ **Products**
+### **Products**
 
 #### **GET /products**
 - **URL**: `https://dummyjson.com/products`
@@ -88,7 +88,7 @@
 - **Testes**: ✅ Status 200 apenas
 - **Limitação**: Cobertura muito básica
 
-### ✅ **TODOs**
+### **TODOs**
 
 #### **GET /todos**
 - **URL**: `https://dummyjson.com/todos`
